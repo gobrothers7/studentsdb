@@ -1,0 +1,9 @@
+*.[oa]
+*~
+*.pyc
+*.pyo
+*.egg-info
+*.mo
+*.egg
+*.db
+.idea/
